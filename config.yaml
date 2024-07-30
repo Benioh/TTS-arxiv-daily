@@ -25,5 +25,6 @@ keywords:
     "TTS":
         filters: ["TTS", "Text to speech"]
     "Emo":
-        filters: ["Emo", "emo","emotion","emotional"]
+        filters: ["Emo", "emo",
+                  "emotion","emotional"]
     
