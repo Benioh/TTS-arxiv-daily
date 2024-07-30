@@ -7,6 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#tts>TTS</a></li>
+    <li><a href=#emo>Emo</a></li>
   </ol>
 </details>
 
@@ -643,6 +644,63 @@
 |**2022-11-05**|**Nix-TTS: Lightweight and End-to-End Text-to-Speech via Module-wise Distillation**|Rendi Chevi et.al.|[2203.15643](http://arxiv.org/abs/2203.15643)|**[link](https://github.com/rendchevi/nix-tts)**|
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
+
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
+
+## Emo
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-07-29**|**Emotion-Driven Melody Harmonization via Melodic Variation and Functional Representation**|Jingyue Huang et.al.|[2407.20176](http://arxiv.org/abs/2407.20176)|**[link](https://github.com/yuer867/emo_harmonizer)**|
+|**2024-07-25**|**Improving probabilistic forecasts of extreme wind speeds by training statistical post-processing models with weighted scoring rules**|Jakob Benjamin Wessel et.al.|[2407.15900](http://arxiv.org/abs/2407.15900)|**[link](https://github.com/jakobwes/Improving-probabilistic-forecasts-of-extreme-wind-speeds)**|
+|**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024](http://arxiv.org/abs/2406.20024)|null|
+|**2024-06-11**|**EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**|Ziyang Ma et.al.|[2406.07162](http://arxiv.org/abs/2406.07162)|**[link](https://github.com/emo-box/emobox)**|
+|**2024-06-09**|**Peptide Vaccine Design by Evolutionary Multi-Objective Optimization**|Dan-Xuan Liu et.al.|[2406.05743](http://arxiv.org/abs/2406.05743)|null|
+|**2024-06-06**|**BLSP-Emo: Towards Empathetic Large Speech-Language Models**|Chen Wang et.al.|[2406.03872](http://arxiv.org/abs/2406.03872)|**[link](https://github.com/cwang621/blsp-emo)**|
+|**2024-06-05**|**EMOE: Expansive Matching of Experts for Robust Uncertainty Based Rejection**|Yunni Qu et.al.|[2406.01825](http://arxiv.org/abs/2406.01825)|null|
+|**2024-06-05**|**Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition**|Alaa Nfissi et.al.|[2406.01624](http://arxiv.org/abs/2406.01624)|**[link](https://github.com/alaanfissi/unveiling-hidden-factors-explainable-ai-for-feature-boosting-in-speech-emotion-recognition)**|
+|**2024-05-22**|**Illustrating the Efficiency of Popular Evolutionary Multi-Objective Algorithms Using Runtime Analysis**|Duc-Cuong Dang et.al.|[2405.13572](http://arxiv.org/abs/2405.13572)|null|
+|**2024-04-22**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part I-Past and Future**|Ke Li et.al.|[2404.14571](http://arxiv.org/abs/2404.14571)|null|
+|**2024-04-07**|**The zero degree of freedom non-central chi squared distribution for ensemble postprocessing**|Jürgen Groß et.al.|[2404.04964](http://arxiv.org/abs/2404.04964)|null|
+|**2024-04-11**|**A Block-Coordinate Descent EMO Algorithm: Theoretical and Empirical Analysis**|Benjamin Doerr et.al.|[2404.03838](http://arxiv.org/abs/2404.03838)|null|
+|**2024-03-30**|**Approximation of a Pareto Set Segment Using a Linear Model with Sharing Variables**|Ping Guo et.al.|[2404.00251](http://arxiv.org/abs/2404.00251)|null|
+|**2024-06-04**|**Speech Emotion Recognition Via CNN-Transformer and Multidimensional Attention Mechanism**|Xiaoyu Tang et.al.|[2403.04743](http://arxiv.org/abs/2403.04743)|**[link](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism)**|
+|**2024-03-01**|**SEGAA: A Unified Approach to Predicting Age, Gender, and Emotion in Speech**|Aron R et.al.|[2403.00887](http://arxiv.org/abs/2403.00887)|null|
+|**2024-02-27**|**EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
+|**2024-03-12**|**EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**|Haibin Wu et.al.|[2402.13018](http://arxiv.org/abs/2402.13018)|**[link](https://github.com/EMOsuperb/EMO-SUPERB-submission)**|
+|**2024-07-11**|**Are Paralinguistic Representations all that is needed for Speech Emotion Recognition?**|Orchid Chetia Phukan et.al.|[2402.01579](http://arxiv.org/abs/2402.01579)|null|
+|**2024-03-14**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
+|**2024-02-01**|**Time Series based Ensemble Model Output Statistics for Temperature Forecasts Postprocessing**|David Jobst et.al.|[2402.00555](http://arxiv.org/abs/2402.00555)|**[link](https://github.com/jobstdavid/paper_tsemos)**|
+|**2024-01-25**|**Clustering-based spatial interpolation of parametric post-processing models**|Sándor Baran et.al.|[2401.14393](http://arxiv.org/abs/2401.14393)|null|
+|**2024-01-18**|**Evolutionary Multi-Objective Optimization of Large Language Model Prompts for Balancing Sentiments**|Jill Baumann et.al.|[2401.09862](http://arxiv.org/abs/2401.09862)|null|
+|**2023-12-18**|**Leveraged Mel spectrograms using Harmonic and Percussive Components in Speech Emotion Recognition**|David Hason Rudd et.al.|[2312.10949](http://arxiv.org/abs/2312.10949)|**[link](https://github.com/DavidHason/ser)**|
+|**2023-12-18**|**An Extended Variational Mode Decomposition Algorithm Developed Speech Emotion Recognition Performance**|David Hason Rudd et.al.|[2312.10937](http://arxiv.org/abs/2312.10937)|null|
+|**2024-03-27**|**Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation**|Xingqun Qi et.al.|[2311.17532](http://arxiv.org/abs/2311.17532)|null|
+|**2023-09-12**|**Innovative NiAl Electrodes for Long-Term, Intermediate High-Temperature SAW Sensing Applications Using LiNbO $_3$ Substrates**|Jordan Maufay et.al.|[2310.11456](http://arxiv.org/abs/2310.11456)|null|
+|**2024-04-01**|**Unlocking Emergent Modularity in Large Language Models**|Zihan Qiu et.al.|[2310.10908](http://arxiv.org/abs/2310.10908)|**[link](https://github.com/qiuzh20/emoe)**|
+|**2023-10-26**|**Migrant Resettlement by Evolutionary Multi-objective Optimization**|Dan-Xuan Liu et.al.|[2310.08896](http://arxiv.org/abs/2310.08896)|null|
+|**2024-02-02**|**EMO: Earth Mover Distance Optimization for Auto-Regressive Language Modeling**|Siyu Ren et.al.|[2310.04691](http://arxiv.org/abs/2310.04691)|**[link](https://github.com/drsy/emo)**|
+|**2023-09-23**|**WikiMT++ Dataset Card**|Monan Zhou et.al.|[2309.13259](http://arxiv.org/abs/2309.13259)|null|
+|**2023-09-11**|**D-Vine GAM Copula based Quantile Regression with Application to Ensemble Postprocessing**|David Jobst et.al.|[2309.05603](http://arxiv.org/abs/2309.05603)|**[link](https://github.com/jobstdavid/gamvinereg)**|
+|**2023-09-06**|**Fast and Resource-Efficient Object Tracking on Edge Devices: A Measurement Study**|Sanjana Vijay Ganesh et.al.|[2309.02666](http://arxiv.org/abs/2309.02666)|**[link](https://github.com/git-disl/emo)**|
+|**2023-08-31**|**Data-driven Product-Process Optimization of N-isopropylacrylamide Microgel Flow-Synthesis**|Luise F. Kaven et.al.|[2308.16724](http://arxiv.org/abs/2308.16724)|null|
+|**2023-08-10**|**A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-objective Optimization**|Yansong Huang et.al.|[2308.05640](http://arxiv.org/abs/2308.05640)|**[link](https://github.com/vis-sustech/visual-analytics-for-emo-algorithm-comparison)**|
+|**2023-08-04**|**Evolutionary Multi-objective Optimisation in Neurotrajectory Prediction**|Edgar Galván et.al.|[2308.02710](http://arxiv.org/abs/2308.02710)|null|
+|**2023-08-04**|**Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition**|Jiaxin Ye et.al.|[2308.02190](http://arxiv.org/abs/2308.02190)|**[link](https://github.com/jiaxin-ye/emo-dna)**|
+|**2023-07-20**|**Cross-Corpus Multilingual Speech Emotion Recognition: Amharic vs. Other Languages**|Ephrem Afele Retta et.al.|[2307.10814](http://arxiv.org/abs/2307.10814)|null|
+|**2023-07-13**|**Investigating Normalization in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point**|Ryoji Tanabe et.al.|[2307.06562](http://arxiv.org/abs/2307.06562)|null|
+|**2023-07-06**|**Evaluating raw waveforms with deep learning frameworks for speech emotion recognition**|Zeynep Hilal Kilimci et.al.|[2307.02820](http://arxiv.org/abs/2307.02820)|null|
+|**2023-12-04**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848](http://arxiv.org/abs/2306.07848)|null|
+|**2023-06-26**|**EMO: Episodic Memory Optimization for Few-Shot Meta-Learning**|Yingjun Du et.al.|[2306.05189](http://arxiv.org/abs/2306.05189)|null|
+|**2023-06-07**|**Analysing the Robustness of NSGA-II under Noise**|Duc-Cuong Dang et.al.|[2306.04525](http://arxiv.org/abs/2306.04525)|null|
+|**2023-07-07**|**On Connectivity in Random Graph Models with Limited Dependencies**|Johannes Lengler et.al.|[2305.02974](http://arxiv.org/abs/2305.02974)|null|
+|**2023-04-22**|**A Comparative Study of Pre-trained Speech and Audio Embeddings for Speech Emotion Recognition**|Orchid Chetia Phukan et.al.|[2304.11472](http://arxiv.org/abs/2304.11472)|null|
+|**2023-04-07**|**On the Unbounded External Archive and Population Size in Preference-based Evolutionary Multi-objective Optimization Using a Reference Point**|Ryoji Tanabe et.al.|[2304.03566](http://arxiv.org/abs/2304.03566)|**[link](https://github.com/ryojitanabe/prefpp)**|
+|**2023-12-30**|**A Multi-objective Complex Network Pruning Framework Based on Divide-and-conquer and Global Performance Impairment Ranking**|Ronghua Shang et.al.|[2303.16212](http://arxiv.org/abs/2303.16212)|null|
+|**2023-03-26**|**Emotionally Enhanced Talking Face Generation**|Sahil Goyal et.al.|[2303.11548](http://arxiv.org/abs/2303.11548)|**[link](https://github.com/sahilg06/EmoGen)**|
+|**2023-09-13**|**Multi-Objective Archiving**|Miqing Li et.al.|[2303.09685](http://arxiv.org/abs/2303.09685)|null|
+|**2023-03-08**|**A Deep-Learning-Based Neural Decoding Framework for Emotional Brain-Computer Interfaces**|Xinming Wu et.al.|[2303.04391](http://arxiv.org/abs/2303.04391)|null|
+|**2023-12-04**|**Crossover Can Guarantee Exponential Speed-Ups in Evolutionary Multi-Objective Optimisation**|Duc-Cuong Dang et.al.|[2301.13687](http://arxiv.org/abs/2301.13687)|null|
 
 <p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
