@@ -1,4 +1,4 @@
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-26**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
+|**2024-07-29**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
 |**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach et.al.|[2407.17997](http://arxiv.org/abs/2407.17997)|null|
 |**2024-07-24**|**Zero-Shot vs. Few-Shot Multi-Speaker TTS Using Pre-trained Czech SpeechT5 Model**|Jan Lehečka et.al.|[2407.17167](http://arxiv.org/abs/2407.17167)|null|
 |**2024-07-23**|**Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments**|Pai Zhu et.al.|[2407.16840](http://arxiv.org/abs/2407.16840)|null|
@@ -643,5 +643,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240730>back to top</a>)</p>
 
