@@ -22,8 +22,6 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "TTS":
-        filters: ["TTS", "Text to speech"]
     "Emo":
         filters: ["Emo", "emo",
                   "emotion","emotional"]
