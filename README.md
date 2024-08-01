@@ -1,4 +1,4 @@
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -24,7 +24,7 @@
 |**2024-07-22**|**TTSDS -- Text-to-Speech Distribution Score**|Christoph Minixhofer et.al.|[2407.12707](http://arxiv.org/abs/2407.12707)|**[link](https://github.com/ttsds/ttsds)**|
 |**2024-07-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229](http://arxiv.org/abs/2407.12229)|null|
 |**2024-07-16**|**A Language Modeling Approach to Diacritic-Free Hebrew TTS**|Amit Roth et.al.|[2407.12206](http://arxiv.org/abs/2407.12206)|null|
-|**2024-07-01**|**ICAGC 2024: Inspirational and Convincing Audio Generation Challenge 2024**|Ruibo Fu et.al.|[2407.12038](http://arxiv.org/abs/2407.12038)|null|
+|**2024-07-31**|**ICAGC 2024: Inspirational and Convincing Audio Generation Challenge 2024**|Ruibo Fu et.al.|[2407.12038](http://arxiv.org/abs/2407.12038)|null|
 |**2024-07-17**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370](http://arxiv.org/abs/2407.09370)|**[link](https://github.com/zhyuan11/SPE)**|
 |**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|null|
 |**2024-07-10**|**Source Tracing of Audio Deepfake Systems**|Nicholas Klein et.al.|[2407.08016](http://arxiv.org/abs/2407.08016)|null|
@@ -645,7 +645,7 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
 
 ## Emo
 
@@ -702,5 +702,5 @@
 |**2023-03-08**|**A Deep-Learning-Based Neural Decoding Framework for Emotional Brain-Computer Interfaces**|Xinming Wu et.al.|[2303.04391](http://arxiv.org/abs/2303.04391)|null|
 |**2023-12-04**|**Crossover Can Guarantee Exponential Speed-Ups in Evolutionary Multi-Objective Optimisation**|Duc-Cuong Dang et.al.|[2301.13687](http://arxiv.org/abs/2301.13687)|null|
 
-<p align=right>(<a href=#updated-on-20240731>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
 

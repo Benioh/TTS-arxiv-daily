@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,7 +20,7 @@ layout: default
 |**2024-07-22**|**TTSDS -- Text-to-Speech Distribution Score**|Christoph Minixhofer et.al.|[2407.12707](http://arxiv.org/abs/2407.12707)|**[link](https://github.com/ttsds/ttsds)**|
 |**2024-07-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229](http://arxiv.org/abs/2407.12229)|null|
 |**2024-07-16**|**A Language Modeling Approach to Diacritic-Free Hebrew TTS**|Amit Roth et.al.|[2407.12206](http://arxiv.org/abs/2407.12206)|null|
-|**2024-07-01**|**ICAGC 2024: Inspirational and Convincing Audio Generation Challenge 2024**|Ruibo Fu et.al.|[2407.12038](http://arxiv.org/abs/2407.12038)|null|
+|**2024-07-31**|**ICAGC 2024: Inspirational and Convincing Audio Generation Challenge 2024**|Ruibo Fu et.al.|[2407.12038](http://arxiv.org/abs/2407.12038)|null|
 |**2024-07-17**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370](http://arxiv.org/abs/2407.09370)|**[link](https://github.com/zhyuan11/SPE)**|
 |**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|null|
 |**2024-07-10**|**Source Tracing of Audio Deepfake Systems**|Nicholas Klein et.al.|[2407.08016](http://arxiv.org/abs/2407.08016)|null|
