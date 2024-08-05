@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network**|Kexin Wang et.al.|[2408.00788](http://arxiv.org/abs/2408.00788)|null|
 |**2024-08-01**|**Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation**|Xinhan Di et.al.|[2408.00284](http://arxiv.org/abs/2408.00284)|null|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber et.al.|[2408.00004](http://arxiv.org/abs/2408.00004)|null|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach et.al.|[2407.21476](http://arxiv.org/abs/2407.21476)|null|
