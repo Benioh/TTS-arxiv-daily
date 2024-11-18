@@ -812,7 +812,7 @@
 |**2024-02-27**|**EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
 |**2024-03-12**|**EMO-SUPERB: An In-depth Look at Speech Emotion Recognition**|Haibin Wu et.al.|[2402.13018](http://arxiv.org/abs/2402.13018)|**[link](https://github.com/EMOsuperb/EMO-SUPERB-submission)**|
 |**2024-07-11**|**Are Paralinguistic Representations all that is needed for Speech Emotion Recognition?**|Orchid Chetia Phukan et.al.|[2402.01579](http://arxiv.org/abs/2402.01579)|null|
-|**2024-03-14**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
+|**2024-03-14**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|**[link](https://github.com/andypinxinliu/HumanFaceProject/tree/main/assets/GaussianStyle)**|
 |**2024-02-01**|**Time Series based Ensemble Model Output Statistics for Temperature Forecasts Postprocessing**|David Jobst et.al.|[2402.00555](http://arxiv.org/abs/2402.00555)|**[link](https://github.com/jobstdavid/paper_tsemos)**|
 |**2024-01-25**|**Clustering-based spatial interpolation of parametric post-processing models**|Sándor Baran et.al.|[2401.14393](http://arxiv.org/abs/2401.14393)|null|
 |**2024-01-18**|**Evolutionary Multi-Objective Optimization of Large Language Model Prompts for Balancing Sentiments**|Jill Baumann et.al.|[2401.09862](http://arxiv.org/abs/2401.09862)|null|
