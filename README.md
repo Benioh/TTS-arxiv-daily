@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -36,7 +36,7 @@
 |**2024-11-09**|**Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis**|Shijia Liao et.al.|[2411.01156](http://arxiv.org/abs/2411.01156)|**[link](https://github.com/fishaudio/fish-speech)**|
 |**2024-10-31**|**Speech is More Than Words: Do Speech-to-Text Translation Systems Leverage Prosody?**|Ioannis Tsiamas et.al.|[2410.24019](http://arxiv.org/abs/2410.24019)|null|
 |**2024-10-30**|**Lina-Speech: Gated Linear Attention is a Fast and Parameter-Efficient Learner for text-to-speech synthesis**|Théodor Lemerle et.al.|[2410.23320](http://arxiv.org/abs/2410.23320)|**[link](https://github.com/theodorblackbird/lina-speech)**|
-|**2024-10-29**|**Very Attentive Tacotron: Robust and Unbounded Length Generalization in Autoregressive Transformer-Based Text-to-Speech**|Eric Battenberg et.al.|[2410.22179](http://arxiv.org/abs/2410.22179)|null|
+|**2024-10-29**|**Very Attentive Tacotron: Robust and Unbounded Length Generalization in Autoregressive Transformer-Based Text-to-Speech**|Eric Battenberg et.al.|[2410.22179](http://arxiv.org/abs/2410.22179)|**[link](https://github.com/google/sequence-layers/blob/main/examples/very_attentive_tacotron.py)**|
 |**2024-10-29**|**Fast and High-Quality Auto-Regressive Speech Synthesis via Speculative Decoding**|Bohan Li et.al.|[2410.21951](http://arxiv.org/abs/2410.21951)|null|
 |**2024-10-29**|**RDSinger: Reference-based Diffusion Network for Singing Voice Synthesis**|Kehan Sui et.al.|[2410.21641](http://arxiv.org/abs/2410.21641)|null|
 |**2024-10-28**|**Asynchronous Tool Usage for Real-Time Agents**|Antonio A. Ginart et.al.|[2410.21620](http://arxiv.org/abs/2410.21620)|null|
@@ -796,7 +796,7 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## Emo
 
@@ -853,7 +853,7 @@
 |**2023-03-08**|**A Deep-Learning-Based Neural Decoding Framework for Emotional Brain-Computer Interfaces**|Xinming Wu et.al.|[2303.04391](http://arxiv.org/abs/2303.04391)|null|
 |**2023-12-04**|**Crossover Can Guarantee Exponential Speed-Ups in Evolutionary Multi-Objective Optimisation**|Duc-Cuong Dang et.al.|[2301.13687](http://arxiv.org/abs/2301.13687)|null|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
