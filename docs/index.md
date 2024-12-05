@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -28,7 +28,7 @@ layout: default
 |**2024-11-18**|**ESTVocoder: An Excitation-Spectral-Transformed Neural Vocoder Conditioned on Mel Spectrogram**|Xiao-Hang Jiang et.al.|[2411.11258](http://arxiv.org/abs/2411.11258)|null|
 |**2024-11-12**|**Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models**|Dongrui Han et.al.|[2411.07563](http://arxiv.org/abs/2411.07563)|null|
 |**2024-11-11**|**Enhancing Accessibility in Special Libraries: A Study on AI-Powered Assistive Technologies for Patrons with Disabilities**|Snehasish Paul Shivali Chauhan et.al.|[2411.06970](http://arxiv.org/abs/2411.06970)|null|
-|**2024-11-10**|**Debatts: Zero-Shot Debating Text-to-Speech Synthesis**|Yiqiao Huang et.al.|[2411.06540](http://arxiv.org/abs/2411.06540)|null|
+|**2024-12-04**|**Debatts: Zero-Shot Debating Text-to-Speech Synthesis**|Yiqiao Huang et.al.|[2411.06540](http://arxiv.org/abs/2411.06540)|null|
 |**2024-11-07**|**CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR**|Kadir Burak Buldu et.al.|[2411.04671](http://arxiv.org/abs/2411.04671)|null|
 |**2024-11-04**|**EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via Emotion-Adaptive Spherical Vector**|Deok-Hyeon Cho et.al.|[2411.02625](http://arxiv.org/abs/2411.02625)|**[link](https://github.com/Choddeok/EmoSpherepp)**|
 |**2024-11-09**|**Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis**|Shijia Liao et.al.|[2411.01156](http://arxiv.org/abs/2411.01156)|**[link](https://github.com/fishaudio/fish-speech)**|
