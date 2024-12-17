@@ -16,7 +16,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-13**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
+|**2024-12-16**|**ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis**|Xiangheng He et.al.|[2412.11795](http://arxiv.org/abs/2412.11795)|null|
+|**2024-12-16**|**Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech**|Rui Liu et.al.|[2412.11409](http://arxiv.org/abs/2412.11409)|**[link](https://github.com/ai-s2-lab/m2se-vtts)**|
+|**2024-12-16**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
 |**2024-12-13**|**AMuSeD: An Attentive Deep Neural Network for Multimodal Sarcasm Detection Incorporating Bi-modal Data Augmentation**|Xiyuan Gao et.al.|[2412.10103](http://arxiv.org/abs/2412.10103)|null|
 |**2024-12-13**|**CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder**|Jianwei Cui et.al.|[2412.08918](http://arxiv.org/abs/2412.08918)|null|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**|
@@ -35,7 +37,7 @@ layout: default
 |**2024-11-26**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
 |**2024-12-02**|**I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception**|Jiawei Zhang et.al.|[2411.13314](http://arxiv.org/abs/2411.13314)|null|
 |**2024-11-20**|**Hard-Synth: Synthesizing Diverse Hard Samples for ASR using Zero-Shot TTS and LLM**|Jiawei Yu et.al.|[2411.13159](http://arxiv.org/abs/2411.13159)|null|
-|**2024-11-19**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
+|**2024-12-15**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
 |**2024-11-19**|**Leveraging Virtual Reality and AI Tutoring for Language Learning: A Case Study of a Virtual Campus Environment with OpenAI GPT Integration with Unity 3D**|Adithya TG et.al.|[2411.12619](http://arxiv.org/abs/2411.12619)|null|
 |**2024-11-18**|**ESTVocoder: An Excitation-Spectral-Transformed Neural Vocoder Conditioned on Mel Spectrogram**|Xiao-Hang Jiang et.al.|[2411.11258](http://arxiv.org/abs/2411.11258)|null|
 |**2024-11-12**|**Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models**|Dongrui Han et.al.|[2411.07563](http://arxiv.org/abs/2411.07563)|null|
