@@ -118,7 +118,7 @@
 |**2024-10-06**|**HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis**|Yuto Nishimura et.al.|[2410.04380](http://arxiv.org/abs/2410.04380)|null|
 |**2024-10-10**|**SONAR: A Synthetic AI-Audio Detection Framework and Benchmark**|Xiang Li et.al.|[2410.04324](http://arxiv.org/abs/2410.04324)|**[link](https://github.com/jessegator/sonar)**|
 |**2024-10-05**|**Adversarial Attacks and Robust Defenses in Speaker Embedding based Zero-Shot Text-to-Speech System**|Ze Li et.al.|[2410.04017](http://arxiv.org/abs/2410.04017)|null|
-|**2024-10-01**|**Recent Advances in Speech Language Models: A Survey**|Wenqian Cui et.al.|[2410.03751](http://arxiv.org/abs/2410.03751)|null|
+|**2024-10-01**|**Recent Advances in Speech Language Models: A Survey**|Wenqian Cui et.al.|[2410.03751](http://arxiv.org/abs/2410.03751)|**[link](https://github.com/dreamtheater123/awesome-speechlm-survey)**|
 |**2024-09-30**|**Accent conversion using discrete units with parallel data synthesized from controllable accented TTS**|Tuan Nam Nguyen et.al.|[2410.03734](http://arxiv.org/abs/2410.03734)|null|
 |**2024-09-28**|**FluentEditor+: Text-based Speech Editing by Modeling Local Hierarchical Acoustic Smoothness and Global Prosody Consistency**|Rui Liu et.al.|[2410.03719](http://arxiv.org/abs/2410.03719)|**[link](https://github.com/ai-s2-lab/fluenteditor2)**|
 |**2024-10-04**|**Generative Semantic Communication for Text-to-Speech Synthesis**|Jiahao Zheng et.al.|[2410.03459](http://arxiv.org/abs/2410.03459)|null|
