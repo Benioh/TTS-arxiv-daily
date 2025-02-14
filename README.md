@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -28,9 +28,9 @@
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 |**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|null|
-|**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|null|
+|**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950](http://arxiv.org/abs/2502.02950)|null|
-|**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|null|
+|**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|**[link](https://github.com/ShenranTomWang/TTS)**|
 |**2025-02-04**|**Streaming Speaker Change Detection and Gender Classification for Transducer-Based Multi-Talker Speech Translation**|Peidong Wang et.al.|[2502.02683](http://arxiv.org/abs/2502.02683)|null|
 |**2025-02-02**|**EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis**|Junuk Cha et.al.|[2502.00654](http://arxiv.org/abs/2502.00654)|null|
 |**2025-01-31**|**VisualSpeech: Enhance Prosody with Visual Context in TTS**|Shumin Que et.al.|[2501.19258](http://arxiv.org/abs/2501.19258)|null|
@@ -865,7 +865,7 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Emo
 
@@ -922,7 +922,7 @@
 |**2023-03-08**|**A Deep-Learning-Based Neural Decoding Framework for Emotional Brain-Computer Interfaces**|Xinming Wu et.al.|[2303.04391](http://arxiv.org/abs/2303.04391)|null|
 |**2023-12-04**|**Crossover Can Guarantee Exponential Speed-Ups in Evolutionary Multi-Objective Optimisation**|Duc-Cuong Dang et.al.|[2301.13687](http://arxiv.org/abs/2301.13687)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
