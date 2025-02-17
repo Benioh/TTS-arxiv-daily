@@ -16,7 +16,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-13**|**TokenSynth: A Token-based Neural Synthesizer for Instrument Cloning and Text-to-Instrument**|Kyungsu Kim et.al.|[2502.08939](http://arxiv.org/abs/2502.08939)|null|
+|**2025-02-14**|**VocalCrypt: Novel Active Defense Against Deepfake Voice Based on Masking Effect**|Qingyuan Fei et.al.|[2502.10329](http://arxiv.org/abs/2502.10329)|null|
+|**2025-02-13**|**TokenSynth: A Token-based Neural Synthesizer for Instrument Cloning and Text-to-Instrument**|Kyungsu Kim et.al.|[2502.08939](http://arxiv.org/abs/2502.08939)|**[link](https://github.com/kyungsukim42/tokensynth)**|
 |**2025-02-14**|**ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**|Xin Wang et.al.|[2502.08857](http://arxiv.org/abs/2502.08857)|null|
 |**2025-02-11**|**LoRP-TTS: Low-Rank Personalized Text-To-Speech**|Łukasz Bondaruk et.al.|[2502.07562](http://arxiv.org/abs/2502.07562)|null|
 |**2025-02-11**|**Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction**|Leying Zhang et.al.|[2502.07345](http://arxiv.org/abs/2502.07345)|null|
@@ -25,7 +26,7 @@ layout: default
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
-|**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|null|
+|**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|**[link](https://github.com/index-tts/index-tts)**|
 |**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950](http://arxiv.org/abs/2502.02950)|null|
 |**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|**[link](https://github.com/ShenranTomWang/TTS)**|
