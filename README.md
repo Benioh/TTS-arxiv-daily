@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -26,13 +26,13 @@
 |**2025-06-20**|**RapFlow-TTS: Rapid and High-Fidelity Text-to-Speech with Improved Consistency Flow Matching**|Hyun Joon Park et.al.|[2506.16741](http://arxiv.org/abs/2506.16741)|null|
 |**2025-06-20**|**LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization**|Daejin Jo et.al.|[2506.16738](http://arxiv.org/abs/2506.16738)|null|
 |**2025-06-19**|**Streaming Non-Autoregressive Model for Accent Conversion and Pronunciation Improvement**|Tuan-Nam Nguyen et.al.|[2506.16580](http://arxiv.org/abs/2506.16580)|null|
-|**2025-06-19**|**InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**|Kexin Huang et.al.|[2506.16381](http://arxiv.org/abs/2506.16381)|null|
+|**2025-06-19**|**InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**|Kexin Huang et.al.|[2506.16381](http://arxiv.org/abs/2506.16381)|**[link](https://github.com/kexinhuang19/instructttseval)**|
 |**2025-06-19**|**Optimizing Multilingual Text-To-Speech with Accents & Emotions**|Pranav Pawar et.al.|[2506.16310](http://arxiv.org/abs/2506.16310)|null|
 |**2025-06-18**|**TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data**|Kentaro Seki et.al.|[2506.15614](http://arxiv.org/abs/2506.15614)|null|
 |**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
 |**2025-06-18**|**EmojiVoice: Towards long-term controllable expressivity in robot speech**|Paige Tuttösí et.al.|[2506.15085](http://arxiv.org/abs/2506.15085)|null|
 |**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226](http://arxiv.org/abs/2506.14226)|null|
-|**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|null|
+|**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|**[link](https://github.com/dhatchi711/espnet-emotional-news)**|
 |**2025-06-20**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|**[link](https://github.com/k2-fsa/ZipVoice)**|
 |**2025-06-14**|**StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**|Hui Wang et.al.|[2506.12570](http://arxiv.org/abs/2506.12570)|null|
 |**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311](http://arxiv.org/abs/2506.12311)|null|
@@ -1011,7 +1011,7 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Emo
 
@@ -1068,7 +1068,7 @@
 |**2023-03-08**|**A Deep-Learning-Based Neural Decoding Framework for Emotional Brain-Computer Interfaces**|Xinming Wu et.al.|[2303.04391](http://arxiv.org/abs/2303.04391)|null|
 |**2023-12-04**|**Crossover Can Guarantee Exponential Speed-Ups in Evolutionary Multi-Objective Optimisation**|Duc-Cuong Dang et.al.|[2301.13687](http://arxiv.org/abs/2301.13687)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
